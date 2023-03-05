@@ -7,4 +7,6 @@ Learning: How to authenticate using azure cli
 3. az account set --subscription 460f276e-b221-479d-92d9-13dca26ead42 
 
 4. terraform init
+5. terraform plan
+6. terraform apply
 
