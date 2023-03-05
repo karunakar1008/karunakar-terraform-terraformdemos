@@ -6,8 +6,9 @@ Learning: Terraform State
 
 1. terraform init
 2. terraform plan -var-file terraform.tfvars -out="dev.plan"
-4. terraform show dev.plan  #to check what is going to be created
-3. terraform apply dev.plan
+3. terraform show dev.plan  #to check what is going to be created
+4. terraform apply dev.plan
+5. terraform show    # To know what has been provisioned
 
 
 
